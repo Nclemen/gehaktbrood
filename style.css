@@ -1,0 +1,73 @@
+div {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin: 0 auto;
+  width: 40%;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+#eerstParagraaf{
+  font-size: 24px;
+  line-height: 32px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 36px;
+}
+
+h2{
+  margin-top: 40px;
+  font-size: 32px;
+  line-height: 32px;
+}
+#bereidingswijze {
+    margin-bottom: 20px;
+}
+
+li{
+  margin-bottom: 10px;
+}
+
+#pageTitle {
+  width: auto;
+  border-bottom-style: solid;
+  background-color: none;
+}
+
+#tip{
+  background-color: #def6ed;
+  border-radius: 4px;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+img {
+  height: auto;
+  width: 90%;
+}
+
+.buttonC{
+  background-color: red;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border: 2px solid #000000;
+  padding: 7px;
+}
+
+.button {
+  background-color: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border: 2px solid #000000;
+  padding: 5px;
+}
