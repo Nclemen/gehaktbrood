@@ -22,7 +22,7 @@ h2{
   font-size: 32px;
   line-height: 32px;
 }
-#bereidingswijze {
+.bereidingswijze {
     margin-bottom: 20px;
 }
 
@@ -33,7 +33,6 @@ li{
 #pageTitle {
   width: auto;
   border-bottom-style: solid;
-  background-color: none;
 }
 
 #tip{
@@ -61,7 +60,6 @@ img {
 }
 
 .button {
-  background-color: none;
   color: black;
   text-align: center;
   text-decoration: none;
